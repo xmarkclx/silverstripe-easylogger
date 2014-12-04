@@ -13,6 +13,7 @@ EasyLogger::logThis('message');
 ###Log variable###
 EasyLogger::logThisVariable(var);
 
-###Custom logger with###
+###Custom logger###
 $logger = new EasyLogger('dir/filename');
+
 $loggger->log('message');
