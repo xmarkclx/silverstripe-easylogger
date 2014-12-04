@@ -1,0 +1,8 @@
+{
+    "name": "xmarkclx/silverstripe-easylogger",
+    "description": "Module used to easily log stuff.",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
+
