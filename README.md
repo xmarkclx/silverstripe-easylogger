@@ -11,7 +11,7 @@ Use custom logger feature to customize log file location
 EasyLogger::logThis('message');
 
 ###Log variable###
-EasyLogger::logThisVariable(var);
+EasyLogger::logThisVariable($var);
 
 ###Custom logger###
 $logger = new EasyLogger('dir/filename');
