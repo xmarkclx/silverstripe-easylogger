@@ -17,9 +17,12 @@ The reason this was made is to make it easy for us to see what is going
 on in the code asap, so we can just call EasyLogger::qLog('message') 
 or EasyLogger::quickLogCaller($a) to see a backtrace.
 
-#Configuration#
-Default log file is (base_url)/notification.log
-Use custom logger feature to customize log file location
+# Configuration
+Zero Configuration!
+
+Default log file is (base_url)/notification.log.
+
+Use custom logger feature to customize log file location.
 
 ##How to use##
 ###Log message###
