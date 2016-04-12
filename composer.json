@@ -1,8 +1,14 @@
 {
     "name": "xmarkclx/silverstripe-easylogger",
     "description": "Module used to easily log stuff.",
+    "type": "silverstripe-module",
+    "authors": [
+    {
+      "name": "Mark Christian D. Lopez",
+      "email": "xmarkclx@gmail.com"
+    }],
     "require": {
-        "php": ">=5.3.0"
+      "silverstripe/framework": "~3.1"
     }
 }
 
